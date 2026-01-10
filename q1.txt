@@ -1,0 +1,102 @@
+**output 1**-
+
+721148
+
+**output 2**-
+
+char occupies 1 bytes
+int occupies 4 bytes
+float occupies 4 bytes
+
+**output 3**-
+
+a = 3300b = inf
+4 4
+
+**output 4**-
+
+a = 3300b = inf
+4 4
+
+**output 5**-
+
+n = 15
+
+**output 6**-
+
+4 OXOP+OnO4.000000
+
+**output 7**-
+
+02
+
+**output 8**-
+
+p = 1 q = 1
+
+**output 9**-
+
+c = 1
+
+**output 10**-
+
+I have robbed and killed...
+
+**output 11**-
+
+ans = 1
+
+**output 12**-
+
+ans = 200
+
+**output 13**-
+
+Pilots are on strike...
+
+**output 14**-
+
+error
+
+**output 15**-
+
+BLANK
+
+**output 16**-
+
+2
+3
+4
+5
+.
+.
+256
+
+**output 17**-
+
+x = 3 y = 9 z = 27
+
+**output 18**-
+
+x = 4z = 7
+
+**output 19**-
+
+error
+
+**output 20**-
+
+error
+
+**output 21**-
+
+BLANK
+
+
+
+
+
+
+
+
+
