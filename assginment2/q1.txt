@@ -1,0 +1,54 @@
+output a-
+
+1246811
+
+output b-
+
+Dream about a nightmare
+
+output c-
+
+Enter any number...
+Enter any alphabet...
+If you love something...
+Else it was never meant to be.
+
+output d-
+
+a = 32 b = 21
+
+output e-
+
+Result = 36
+i = 5
+
+output f-
+
+x = 3 y = 8
+
+output g-
+
+k = 26
+
+output h-
+
+Result = 15
+
+output i-
+
+0 garbage 0
+1 garbage 0
+2 garbage 0
+3 garbage 0
+4 garbage 0
+
+output j-
+
+14 11 8 5 2
+
+output k-
+
+14 11 8 5 2
+
+
+
